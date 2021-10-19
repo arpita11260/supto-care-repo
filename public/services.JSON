@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "img" : "https://th.bing.com/th/id/OIP._QscIQelaAw1noK7RwEVNwHaE8?pid=ImgDet&rs=1",
+        "name" : "Pediatrics",
+        "description" : "Paediatrics (also spelled pediatrics or pædiatrics) is the branch of medicine that involves the medical care of infants, children, and adolescents. The American Academy of Pediatrics recommends people seek pediatric care through the age of 21. In the United Kingdom, paediatrics covers patients until age 18. Worldwide age limits of pediatrics have been trending up year over year."
+    },
+    {
+        "id" : 2,
+        "img" : "https://th.bing.com/th/id/OIP.xDSxd5xRRvpWfjnEQTnV9gHaEh?pid=ImgDet&rs=1",
+        "name" : "Cardiology",
+        "description" : "Cardiology is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. The field includes medical diagnosis and treatment of congenital heart defects, coronary artery disease, heart failure, valvular heart disease and electrophysiology."
+    },
+    {
+        "id" : 3,
+        "img" : "https://th.bing.com/th/id/R.b05780ac0e2b2260f81d48c8b192204c?rik=Q7%2fkzBrltzyjCA&pid=ImgRaw&r=0",
+        "name" : "Orthopaedic",
+        "description" : "Orthopaedic surgery or orthopaedics, is the branch of surgery concerned with conditions involving the musculoskeletal system. Orthopaedic surgeons use both surgical and nonsurgical means to treat musculoskeletal trauma, spine diseases, sports injuries, degenerative diseases, infections, tumors, and congenital disorders."
+    },
+    {
+        "id" : 4,
+        "img" : "https://th.bing.com/th/id/R.e6baf88345e55b4b64ea33d431228053?rik=AwWmoLXiu0LKJA&riu=http%3a%2f%2felajmedicalcentre.ae%2fwp-content%2fuploads%2f2019%2f12%2f244620181246356.jpg&ehk=bWt2P8PWe8Sdo4uNrsE2NW97t4UDpACkS5bvI4Txfpc%3d&risl=&pid=ImgRaw&r=0",
+        "name" : "Gynaecology",
+        "description" : "Gynecology is frequently changing due to extensive implementation of high technology in both, the diagnosis and management of gynecologic problems. General gynecologists, gynecologic endocrinologists, infertility specialists, gynecologic endoscopists, and gynecologic oncologists will find attractive, new information in this book."
+    },
+    {
+        "id" : 5,
+        "img" : "https://th.bing.com/th/id/OIP.rATubpZLtA7rrlwtxshpvgHaFj?pid=ImgDet&rs=1",
+        "name" : "Neurology",
+        "description" : " Neurological practice relies heavily on the field of neuroscience, the scientific study of the nervous system. A neurologist is a physician specializing in neurology and trained to investigate, or diagnose and treat neurological disorders. Neurologists treat a myriad of neurologic conditions, including stroke, seizures, movement disorders such as Parkinson's disease"
+    },
+    {
+        "id" : 6,
+        "img" : "https://th.bing.com/th/id/OIP.tg1kOtEyhkziZdiCfFnHtgHaE8?pid=ImgDet&rs=1",
+        "name" : "Medicine",
+        "description" : "A clinician is a health worker who works directlywith patients in a hospital or other healthcare setting. Nurses, doctors, psychotherapists, and other specialists are all clinicians. Not all medical specialists are clinicians. Researchers and laboratory workers are not clinicians because they do not work with patients."
+    }
+]
